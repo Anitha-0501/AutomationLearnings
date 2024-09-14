@@ -19,7 +19,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Anitha-0501/AutomationLearnings.git
 Navigate to the Project Directory
 
 bash
@@ -63,7 +63,7 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For any questions or issues, please contact your-email@example.com.
+For any questions or issues, please contact anitha.manian.qa@gmail.com.
 
 
 
